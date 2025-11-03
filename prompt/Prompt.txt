@@ -1,0 +1,15 @@
+Prompt utilizado para gerar o conteúdo:
+
+faça um texto para ebook, com foco em REACT, listando suas principais 
+funcionalidades com exemplo em código. Utilizando uma linguagem de escrita 
+voltada ao público geek/nerd. E como se fosse escrito por um profisional 
+sênior de Programação em REACT. 
+
+{REGRAS} 
+> Crie um título e subtítulo para a capa, não muito longo, chamatívo e comercial. 
+> Explique sempre de uma maneira simples. 
+> Deixe o texto enxuto. 
+> Sempre traga exemplos de código em contextos reais. 
+> Sempre deixe um título sugestivo por tópico. 
+> Sempre crie seu conteúdo baseado em referências reais. 
+> Adicione ao final do projeto as referências utililizadas e seus links.
